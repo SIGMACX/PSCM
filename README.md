@@ -12,7 +12,7 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">UGAC</h3>
+  <h3 align="center">PSCM</h3>
   <p align="center">
     Pseudo-Label Self-Correction with Mask Learning for Semi-Supervised Medical Image Segmentation
     <br />
